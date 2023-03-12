@@ -6,7 +6,7 @@ A Simple Tip Calculator Webapp that allow you to calculate the the tip you want 
 - **Coding Tool used:** VS Code
 - **Type:** Web Application
 - **Database used:** None
-- **Live Demo:** [click to view](https://ambrish-kd.github.io/to-do-list/)
+- **Live Demo:** [click to view](https://ambrish-kd.github.io/tip-calculator/)
 
 **Screenshot:-**
 
